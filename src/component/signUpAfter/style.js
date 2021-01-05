@@ -11,9 +11,9 @@ export const Container = styled.div`
 `;
 export const RigthDiv = styled.div`
   height: 625px;
-  padding: 80px 130px 0px 100px;
+  padding: 50px 130px 0px 100px;
   @media (max-width: 959px) {
-    padding: 190px 80px 20px 60px;
+    padding: 80px 80px 0px 60px;
   }
 `;
 

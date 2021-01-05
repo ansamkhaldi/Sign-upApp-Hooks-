@@ -6,9 +6,7 @@ import RightComponent from '../component/signUpAfter/RightComponent';
 export default function SignUp(props) {
   return (
     <div>
-      <Row
-      // style={{ minHeight: '570px' }}
-      >
+      <Row style={{ minHeight: '570px' }}>
         <LeftComponent />
         <RightComponent />
       </Row>
